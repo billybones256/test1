@@ -10,4 +10,4 @@ build:
 test:
 	go test -v
 
-.DEFAULT_FOAL := run
+.DEFAULT_GOAL := run
